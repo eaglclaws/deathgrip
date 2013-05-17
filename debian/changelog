@@ -1,3 +1,15 @@
+deathgrip (0.2.1) unstable; urgency=low
+
+  * added rudimentary manpage
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Tue, 14 May 2013 16:01:16 +0900
+
+deathgrip (0.2.0) unstable; urgency=low
+
+  * Added support for configuration files
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Tue, 14 May 2013 15:16:59 +0900
+
 deathgrip (0.1.2) unstable; urgency=low
 
   * Making it more secure with a rando and the date
